@@ -1,3 +1,5 @@
+#original file from https://note.nkmk.me/en/python-pip-install-requirements/
+
 ###### Requirements without Version Specifiers ######`
 qiskit
 qutip

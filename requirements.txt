@@ -1,4 +1,5 @@
 #original file from https://note.nkmk.me/en/python-pip-install-requirements/
+#use using the command> pip install -r requirements.txt
 
 ###### Requirements without Version Specifiers ######`
 qiskit
